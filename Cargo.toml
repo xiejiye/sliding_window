@@ -1,0 +1,9 @@
+[package]
+name = "sliding_window"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossbeam = "0.8"
+rand = "0.8"  # 请检查最新版本号
+
